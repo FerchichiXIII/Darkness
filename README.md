@@ -8,8 +8,8 @@
 | Activity  | keys |
 | ------------- | ------------- |
 | jump | space  |
-| move right | d & -> |
-| move left | q & <- |
+| move right | d || -> |
+| move left | q || <- |
 
 ### Objectives of the game
 
