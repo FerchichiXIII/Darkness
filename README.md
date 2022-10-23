@@ -10,3 +10,7 @@
 | jump | space  |
 | move right | d & -> |
 | move left | q & <- |
+
+### Objectives of the game
+
+In this game, you will live an adventure inside the mind of a person suffering from grief ...
