@@ -7,7 +7,7 @@
 ### control :
 | Activity  | keys |
 | ------------- | ------------- |
-| jump | space  |
+| jump | space \|\| z |
 | move right | d \|\| -> |
 | move left | q \|\| <- |
 
