@@ -16,5 +16,6 @@
 In this game, you will live an adventure inside the mind of a person suffering from grief ...
 
 ### Authors
-
-* [Anas ferchichi](https://github.com/FerchichiXIII)
+#### Anas Ferchichi
+* [GitHub](https://github.com/FerchichiXIII)
+* [linkedin](https://www.linkedin.com/in/anas-ferchichi-7b9aa8230/)
